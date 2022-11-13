@@ -17,7 +17,7 @@ public class SecondTaskUtil {
    * Method take a list of strings and return hashmap with five most used hashtags
    *
    *@param list of strings
-   * @return map with key(hashtags) and value(number of uses)
+   *@return map with key(hashtags) and value(number of uses)
    */
 
   public static Map<String, Integer> topFiveMostUsedHashtags(List<String> list) {
